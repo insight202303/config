@@ -1,1 +1,1 @@
-{"conds":[{"cond_key":"ver_code","op":"eq","cond_type":"int","cond_val":40,"val":"{\"release\":false}"}],"type":"string","def":"{\"release\":true}","ver":1}
+{"conds":[{"cond_key":"ver_code","op":"eq","cond_type":"int","cond_val":40,"val":"{\"release\":true}"}],"type":"string","def":"{\"release\":true}","ver":1}
